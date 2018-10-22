@@ -1,0 +1,9 @@
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaAccesoDeDatos\bin\Debug\CapaAccesoDeDatos.dll
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaAccesoDeDatos\bin\Debug\CapaAccesoDeDatos.pdb
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaAccesoDeDatos\bin\Debug\CapaEntidades.dll
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaAccesoDeDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaAccesoDeDatos\obj\Debug\CapaAccesoDeDatos.csprojAssemblyReference.cache
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaAccesoDeDatos\obj\Debug\CapaAccesoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaAccesoDeDatos\obj\Debug\CapaAccesoDeDatos.csproj.CopyComplete
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaAccesoDeDatos\obj\Debug\CapaAccesoDeDatos.dll
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaAccesoDeDatos\obj\Debug\CapaAccesoDeDatos.pdb

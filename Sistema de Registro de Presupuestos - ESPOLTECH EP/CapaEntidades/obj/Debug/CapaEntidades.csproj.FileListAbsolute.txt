@@ -1,0 +1,6 @@
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaEntidades\obj\Debug\CapaEntidades.pdb

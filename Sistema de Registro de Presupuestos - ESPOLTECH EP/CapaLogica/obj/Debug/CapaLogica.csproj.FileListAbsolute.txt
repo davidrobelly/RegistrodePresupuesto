@@ -1,0 +1,11 @@
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaLogica\bin\Debug\CapaAccesoDeDatos.dll
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaLogica\bin\Debug\CapaEntidades.dll
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaLogica\bin\Debug\CapaAccesoDeDatos.pdb
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaLogica\bin\Debug\CapaEntidades.pdb
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\daverobe\source\repos\Sistema de Registro de Presupuestos - ESPOLTECH EP\CapaLogica\obj\Debug\CapaLogica.pdb
